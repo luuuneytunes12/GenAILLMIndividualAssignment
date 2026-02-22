@@ -1,1 +1,1 @@
-# GenAILLMIndividualAssignment
+# GenAI with LLMs Individual Assignment
